@@ -1,0 +1,10 @@
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\bin\Debug\ventana.exe
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\bin\Debug\ventana.pdb
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.Form1.resources
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.Properties.Resources.resources
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.csproj.GenerateResource.Cache
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.exe
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.pdb
+C:\Users\Carmona\Documents\Visual Studio 2010\Projects\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.csprojResolveAssemblyReference.cache
+C:\Users\Carmona\Documents\GitHub\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.exe
+C:\Users\Carmona\Documents\GitHub\app para crear textos\ventana\ventana\obj\x86\Debug\ventana.pdb
